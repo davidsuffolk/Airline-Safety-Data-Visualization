@@ -1,2 +1,2 @@
-# DSC640_FinalProject
+# Airline Safety - Data Visualization
 Final Project for DSC640
